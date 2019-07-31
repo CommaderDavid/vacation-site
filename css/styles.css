@@ -1,0 +1,11 @@
+h1.title {
+  font-family: serif;
+  color: #009933;
+  text-align: center;
+}
+p.intro {
+  font-family: serif;
+  text-align: center;
+  color: #0066ff;
+  font-weight: bold;
+}
